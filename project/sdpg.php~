@@ -1,0 +1,30 @@
+<html>
+<head><title>Selection</title>
+</head>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="header">
+<h1>CSJM UIET KANPUR UNIVERSITY</h1><br>
+</div>
+<div id="headers">
+<img src="images.jpg" style="width:219px;height:203px">
+</div>
+<div id="nav"></div>
+<div id="section"><br>
+<center>
+	<h1>Registration</h1>
+</center>
+<center>
+<hr>
+<img src="13.jpg" width="1000" height="350">
+<hr><br>
+<h1><a href="nrpg.php">New Registration</a></h1><br>
+<h1><a href="orpg.php">Old Registration</a></h1>
+</center>
+</div>
+<div id="footer">
+<h3>Designed by - Vikash Kumar chaurasia</h3>
+</div>
+</body>
+</html>

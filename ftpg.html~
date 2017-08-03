@@ -1,0 +1,31 @@
+<html>
+<head><title>Registration portal</title>
+</head>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="header">
+<h1>CSJM UIET KANPUR UNIVERSITY</h1><br>
+</div>
+<div id="headers">
+<img src="images.jpg" style="width:219px;height:203px">
+</div>
+<div id="nav"></div>
+<div id="section">
+<h1 style="text-align:center;size:40px;color:#9370DB">Welcome!</h1><hr>
+<center><img src="i1.jpg" width="1000" height="300"></center><hr>
+<h1 style="color:#9370DB;text-align:center">Registration Portal</h1>
+<form action="sdpg.html">
+  <fieldset>
+    <legend><h3><mark style="background:#483D8B;color:white"> Loging Information: </mark></h3></legend>
+    <h3 style="color:#9370DB">Username</h3><input type="text" name="firstname" value="Vikash">
+    <h3 style="color:#9370DB">Password</h3> <input type="password" name="lastname" value="Ashish"><br><br>
+    <input type="Submit" value="    Login    ">
+  </fieldset>
+</form>
+</div>
+<div id="footer">
+<h3>Designed by - Vikash Kumar chaurasia</h3>
+</div>
+</body>
+</html>
